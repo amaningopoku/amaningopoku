@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amaningopoku
+- 👋 Hi, I’m Prince Opoku Amaning
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Cyber Security

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Opoku Amaning
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me @amaningopoku on twitter, @amaningopoku_ on instagram and Prince Opoku Amaning on Facebook
 
